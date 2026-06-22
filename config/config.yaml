@@ -70,7 +70,9 @@ platforms:
       name: "今日头条"
       expected_domain: "toutiao.com"
   
-    
+    - id: "baidu"
+      name: "百度热搜"
+      expected_domain: "baidu.com"
 
 
 
